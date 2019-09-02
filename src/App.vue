@@ -48,7 +48,7 @@
                     </template>
                     <el-menu-item-group>
                         <el-menu-item @click="goRouter(4)" index="">路由传参</el-menu-item>
-                        <el-menu-item index="/router">路由守望</el-menu-item>
+                        <el-menu-item index="/router">路由守卫</el-menu-item>
                         <!-- <el-menu-item index="vuex2">核心</el-menu-item> -->
                     </el-menu-item-group>
                 </el-submenu>
